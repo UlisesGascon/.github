@@ -10,8 +10,8 @@ Code is not the only thing you can contribute. I truly appreciate contributions 
 
 - Fixing typos.
 - Improving docs.
-- Triaging [issues](https://github.com/search?o=desc&q=user:sindresorhus+user:xojs+user:chalk+is:issue+is:open&s=updated&type=Issues).
-- Reviewing [pull requests](https://github.com/search?o=desc&q=user:sindresorhus+user:xojs+user:chalk+is:pr+is:open&s=updated&type=Issues).
+- Triaging [issues](https://github.com/search?o=desc&q=user:ulisesgascon+is:issue+is:open&s=updated&type=Issues).
+- Reviewing [pull requests](https://github.com/search?o=desc&q=user:ulisesgascon+is:pr+is:open&s=updated&type=Issues).
 - Sharing your opinion on issues.
 
 ## Issues
